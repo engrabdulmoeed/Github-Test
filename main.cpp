@@ -1,7 +1,8 @@
 #include <iostream>
-using namespace std
+using namespace std;
 
 int main(){
-    cout<<"Hello World";
+    cout<<"This is a business Application";
+    return 0;
 
 }
